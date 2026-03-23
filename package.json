@@ -20,11 +20,14 @@
     "@strapi/strapi": "5.39.0",
     "better-sqlite3": "^12.8.0",
     "mysql2": "3.9.8",
+    "pg": "^8.20.0",
     "razorpay": "^2.9.6",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-persist": "^1.0.2",
     "react-router-dom": "^6.0.0",
+    "sqlite3": "^6.0.1",
+    "strapi-plugin-import-export-content": "^0.4.2",
     "styled-components": "^6.0.0"
   },
   "engines": {
