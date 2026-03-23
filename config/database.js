@@ -6,6 +6,7 @@ module.exports = ({ env }) => ({
     connection: {
       connectionString: env("DATABASE_URL"),
       ssl: {
+        require: true,
         rejectUnauthorized: false,
       },
     },
